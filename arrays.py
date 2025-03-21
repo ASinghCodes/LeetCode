@@ -4,5 +4,7 @@ def p1929():
 def p1769():
     return "Didn't solve it. I thought I had to return list but people are returning array? Either way lets try this again later."
 
+def p1():
+    return "This was a hashmap problem, or as we do in python, a dictionary problem. We should practice more with hashmap, we had the solution but we flipped keys and values in our appending thus causing issues."
 if __name__ == "__main__":
     print("No problem selected")
