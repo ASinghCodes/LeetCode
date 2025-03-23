@@ -6,5 +6,9 @@ def p1769():
 
 def p1():
     return "This was a hashmap problem, or as we do in python, a dictionary problem. We should practice more with hashmap, we had the solution but we flipped keys and values in our appending thus causing issues."
+
+def p127():
+    return "Straightforward dictionary problem, an alternative option was we could use set() python datatype but it has less flexibility for no significant gains."
+    
 if __name__ == "__main__":
     print("No problem selected")
